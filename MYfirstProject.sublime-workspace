@@ -1,0 +1,1612 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"inc\t#include \"…\""
+			],
+			[
+				"Ge",
+				"GetColSize"
+			],
+			[
+				"st",
+				"std"
+			],
+			[
+				"fil",
+				"field"
+			],
+			[
+				"fi",
+				"fin"
+			],
+			[
+				"co",
+				"cout"
+			],
+			[
+				"5",
+				"5.4.0"
+			],
+			[
+				"t",
+				"tp\ttemplate <typename ${1:_InputIter}>"
+			],
+			[
+				"fiel",
+				"fields"
+			],
+			[
+				"C",
+				"C++work/"
+			],
+			[
+				"Typ",
+				"I-type_traits\tinc"
+			],
+			[
+				"ba",
+				"banana"
+			],
+			[
+				"re",
+				"recvbuf"
+			],
+			[
+				"Re",
+				"Recv"
+			],
+			[
+				"get",
+				"getchar"
+			],
+			[
+				"G",
+				"GetAddr"
+			],
+			[
+				"con",
+				"CreatConnect"
+			],
+			[
+				"Cre",
+				"CreatConnect"
+			],
+			[
+				"tr",
+				"threads"
+			],
+			[
+				"th",
+				"threads"
+			],
+			[
+				"Cli",
+				"Client"
+			],
+			[
+				"de",
+				"detach"
+			],
+			[
+				"CLi",
+				"Client"
+			],
+			[
+				"thread",
+				"ThreadFunction"
+			],
+			[
+				"soc",
+				"sock_cli"
+			],
+			[
+				"recv",
+				"recvbuf"
+			],
+			[
+				"rec",
+				"recvbuf"
+			],
+			[
+				"sock",
+				"sock_cli"
+			],
+			[
+				"DE",
+				"DelMax"
+			],
+			[
+				"ty",
+				"Type"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"type",
+				"typename"
+			],
+			[
+				"Ty",
+				"Type"
+			],
+			[
+				"M",
+				"MaxSize"
+			],
+			[
+				"Tre",
+				"Tree"
+			],
+			[
+				"tree",
+				"tree"
+			],
+			[
+				"Tr",
+				"TreeNode"
+			],
+			[
+				"Tree",
+				"TreeNode"
+			],
+			[
+				"In",
+				"Insert"
+			],
+			[
+				"r",
+				"rchild"
+			],
+			[
+				"St",
+				"Stack"
+			],
+			[
+				"Stac",
+				"Stack_List_Empty"
+			],
+			[
+				"Stack_List_P",
+				"Stack_List_Pop"
+			],
+			[
+				"tem",
+				"template"
+			],
+			[
+				"n",
+				"next"
+			],
+			[
+				"Sta",
+				"Stack"
+			],
+			[
+				"ST",
+				"StackFull"
+			],
+			[
+				"P",
+				"Pop"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"ran",
+				"randint"
+			],
+			[
+				"x",
+				"xdata"
+			],
+			[
+				"SOCK",
+				"SOCK_STREAM〔variable〕"
+			],
+			[
+				"mini",
+				"minNeighbors\tparam"
+			],
+			[
+				"ne",
+				"negative_images/"
+			],
+			[
+				"min",
+				"minSize\tparam"
+			],
+			[
+				"el",
+				"else〔keyword〕"
+			],
+			[
+				"p",
+				"print\tfunction"
+			],
+			[
+				"ca",
+				"camera〔variable〕"
+			],
+			[
+				"int",
+				"interpolation"
+			],
+			[
+				"li",
+				"lizi\tstatement"
+			],
+			[
+				"lizi",
+				"lizi_cascade\tstatement"
+			],
+			[
+				"cre",
+				"creat_sort_jpg\tfunction"
+			],
+			[
+				"__",
+				"__main__〔variable〕"
+			],
+			[
+				"im",
+				"image_list\tparam"
+			],
+			[
+				"mim",
+				"mimsave\tfunction"
+			],
+			[
+				"res",
+				"res_now\tstatement"
+			],
+			[
+				"wa",
+				"waitKey\tfunction"
+			],
+			[
+				"all",
+				"allclose\tfunction"
+			],
+			[
+				"COLORB",
+				"COLOR_BGR2GRAY\tinstance"
+			],
+			[
+				"Col",
+				"COLORSPACE_GRAY\tinstance"
+			],
+			[
+				"INTER",
+				"INTER_CUBIC\tinstance"
+			],
+			[
+				"des",
+				"destroyAllWindows\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.cpp",
+			"settings":
+			{
+				"buffer_size": 379,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nEasyClangComplete\n-----------------\n\n  A plugin for easy to use clang-based completions::\n  \n      ╔═╗┌─┐┌─┐┬ ┬  ╔═╗┬  ┌─┐┌┐┌┌─┐  ╔═╗┌─┐┌┬┐┌─┐┬  ┌─┐┌┬┐┌─┐\n      ║╣ ├─┤└─┐└┬┘  ║  │  ├─┤││││ ┬  ║  │ ││││├─┘│  ├┤  │ ├┤\n      ╚═╝┴ ┴└─┘ ┴   ╚═╝┴─┘┴ ┴┘└┘└─┘  ╚═╝└─┘┴ ┴┴  ┴─┘└─┘ ┴ └─┘\n  \n  Let't get started!\n  ==================\n  \n  You're just two simple steps away!\n  \n  1. Install clang\n  ----------------\n  \n  - **Ubuntu**        : ``sudo apt-get install clang``\n  - **OSX**           : ships `clang` by default. You are all set!\n  - **Windows**       : install the latest release from clang website.\n  - **Other Systems** : use your package manager or install from clang website.\n  - clang website: http://llvm.org/releases/download.html\n  \n  2. Configure your includes\n  --------------------------\n  \n  Using CMake?\n  ~~~~~~~~~~~~\n  \n  Plugin will run cmake on a proper ``CMakeLists.txt`` in your project folder and\n  will use information from it to complete your code out of the box.\n  \n  Have a compilation database?\n  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n  \n  Plugin will search for a compilation database ``compile_commands.json`` in the\n  project folder and will load it to complete your code. If you want to specify a\n  custom path to a comilation database you can do it in settings::\n  \n      \"flags_sources\": [\n          {\"file\": \"compile_commands.json\", \"search_in\": \"<YOUR_PATH>\"},\n      ]\n  \n  None of the above?\n  ~~~~~~~~~~~~~~~~~~\n  \n  You will need a little bit of manual setup for now. Clang will automatically\n  search for headers in the folder that contains the file you are working on and\n  its parent. If you have a more sophisticated project you will need to help clang\n  just a little bit. There are three ways to do it.\n  \n  Pick **ANY** of the following:\n  \n  - Set include dirs in ``\"common_flags\"`` setting in ``User Settings``.\n  - Override ``\"common_flags\"`` setting in your project file, i.e. one that has\n    extension: ``*.sublime-project``. Just define the same setting in project\n    specific settings with either one of two prefixes: ``\"ecc_\"`` or\n    ``\"easy_clang_complete_\"`` to override a corresponding setting in your user\n    settings. See the project file in this repo for a working example. Minimal\n    example for clarity::\n  \n      {\n        \"settings\":\n        {\n          \"ecc_common_flags\": [\"-Isrc\", \"-I/usr/include\"],\n          \"easy_clang_complete_verbose\": true\n        }\n      }\n  \n  - It is recommended to use one of the above, but if you already have a file with\n    flags, you can add ``.clang_complete`` file to the root of your project\n    folder. This file adds additional flags to the ones defined with in\n    ``\"common_flags\"``. Example::\n  \n      -Isrc\n      -I/usr/include\n  \n  That's it! You're ready to use the plugin!\n  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n  \n  More info here\n  ~~~~~~~~~~~~~~\n  \n  Get more info in a readme:\n  https://github.com/niosus/EasyClangComplete/blob/master/README.md\n  \n  Please see the default settings ``EasyClangComplete.sublime-settings``\n  shipped with the plugin for explanations and sane default values.\n  \n  Thanks!\n  =======\n  \n  💜 this plugin? Consider buying me a 🍵\n  https://github.com/niosus/EasyClangComplete#support-it\n",
+			"settings":
+			{
+				"buffer_size": 3276,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "src/scv_file.h",
+			"settings":
+			{
+				"buffer_size": 1473,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "ssc@thinkpad:~/C++work/MYfirstProjec\nt/src$                              \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n",
+			"settings":
+			{
+				"buffer_size": 1665,
+				"line_ending": "Unix",
+				"name": "Terminal (bash)",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "MYfirstProject (Linux)",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"MYfirstProject (Linux)",
+					""
+				],
+				[
+					"MYfirstProject (Linux)",
+					"clean"
+				],
+				[
+					"MYfirstProject (Linux)",
+					"rebuild_cache"
+				],
+				[
+					"MYfirstProject (Linux)",
+					"hello"
+				]
+			],
+			[
+				"MYfirstProject (Linux)",
+				"hello"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"sublimec",
+				"Preferences: SublimeClang Settings – User"
+			],
+			[
+				"termin",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ssc/C++work/MYfirstProject",
+		"/home/ssc/C++work/MYfirstProject/src"
+	],
+	"file_history":
+	[
+		"/home/ssc/.config/sublime-text-3/Packages/User/ClangAutoComplete.sublime-settings",
+		"/home/ssc/.config/sublime-text-3/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/home/ssc/.config/sublime-text-3/Packages/ClangAutoComplete/ClangAutoComplete.sublime-settings",
+		"/home/ssc/.config/sublime-text-3/Packages/User/SublimeClang.sublime-settings",
+		"/home/ssc/.config/sublime-text-3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/home/ssc/.config/sublime-text-3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/home/ssc/.config/sublime-text-3/Packages/SublimeClang/Default.sublime-keymap",
+		"/home/ssc/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/ssc/C++work/MYfirstProject/src/CMakeLists.txt",
+		"/home/ssc/C++work/MYfirstProject/CMakeLists.txt",
+		"/home/ssc/C++work/MYfirstProject/MYfirstProject.sublime-project",
+		"/home/ssc/C++work/MYfirstProject/src/scv_file.cpp",
+		"/home/ssc/C++work/MYfirstProject/build/src/hello",
+		"/home/ssc/.config/sublime-text-3/Packages/User/C++.sublime-build",
+		"/home/ssc/C++work/TCP_Client.cpp",
+		"/home/ssc/C++work/BinarySerchTree.cpp",
+		"/home/ssc/C++work/Heap.cpp",
+		"/home/ssc/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/ssc/C_work/jump.c",
+		"/home/ssc/C_work/algorithms_and_data_structures-master/include/impl/binarySearchTree.impl.h",
+		"/home/ssc/C_work/find_repeat_elem.c",
+		"/home/ssc/C++work/find_repeat_elem.cpp",
+		"/home/ssc/C++work/Stack.cpp",
+		"/home/ssc/C++work/Stack_List.cpp",
+		"/home/ssc/C_work/algorithms_and_data_structures-master/tree_problems/binarySearchTreeDemo.cpp",
+		"/home/ssc/C_work/algorithms_and_data_structures-master/include/binarySearchTree.h",
+		"/home/ssc/PY_work/3D_TCP_MPU6050.py",
+		"/home/ssc/PY_work/plot.py",
+		"/home/ssc/PY_work/opencv-haar-classifier-training/detect.py",
+		"/home/ssc/PY_work/opencv-haar-classifier-training/scripy.sh",
+		"/home/ssc/C++work/STL_test.cpp",
+		"/home/ssc/图片/picture/prepor_picture.py",
+		"/home/ssc/PY_work/opencv-haar-classifier-training/README.md",
+		"/home/ssc/PY_work/opencv-haar-classifier-training/tools/mergevec.py",
+		"/home/ssc/PY_work/SVD.py",
+		"/home/ssc/PY_work/opencv_test/dynamic_point.py",
+		"/home/ssc/PY_work/opencv_test/get_point.py",
+		"/home/ssc/C++work/algorithms_and_data_structures/backtracking_problems/dialpad_combinations.cpp",
+		"/home/ssc/C++work/algorithms_and_data_structures/linked_list_problems/nthToLastNode.cpp",
+		"/home/ssc/.config/sublime-text-3/Packages/User/python3.sublime-build",
+		"/home/ssc/C++work/algorithms_and_data_structures/backtracking_problems/wild_card_matching.cpp",
+		"/home/ssc/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/home/ssc/.config/sublime-text-3/Packages/SublimeREPL/config/Python/Default.sublime-commands",
+		"/home/ssc/.config/sublime-text-3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/home/ssc/YOLO_tensorflow/SVD.py",
+		"/home/ssc/PY_work/cv2_camer.py",
+		"/home/ssc/PY_work/tensorflow_test.py",
+		"/home/ssc/PY_work/som_test.py",
+		"/home/ssc/YOLO_tensorflow/YOLO_face_tf.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Type",
+			"type",
+			"Type",
+			"type",
+			"Type",
+			"inline"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3276,
+								3276
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"default_dir": "/home/ssc/C++work/MYfirstProject/src",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 675.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/scv_file.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1665,
+						"regions":
+						{
+							"0,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										12
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"0,13":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										13,
+										36
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"1,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										37,
+										42
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"1,13":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"11,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"12,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"12,13":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"13,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"13,13":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"14,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"15,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"15,13":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"20,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"20,13":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"22,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"22,13":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"23,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"24,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"24,13":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"25,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"3,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"3,13":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"4,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"4,13":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"5,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"7,16":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"8,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"8,13":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"9,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"9,13":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_blue"
+							}
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"caret_style": "blink",
+							"color_scheme": "Packages/TerminalView/TerminalView.hidden-tmTheme",
+							"default_dir": "/home/ssc/C++work/MYfirstProject/src",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"scroll_past_end": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminal_view": true,
+							"terminal_view_activate_args":
+							{
+								"cmd": "/bin/bash -l",
+								"cwd": "/home/ssc/C++work/MYfirstProject/src",
+								"keep_open": false,
+								"syntax": null,
+								"title": "Terminal (bash)"
+							},
+							"terminal_view_last_cursor_pos":
+							[
+								1,
+								7
+							],
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.667412712623,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 116.0
+	},
+	"output.files_to_be_deleted":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "MYfirstProject (Linux)",
+	"project": "MYfirstProject.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"nth",
+				"linked_list_problems/nthToLastNode.cpp"
+			],
+			[
+				"",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
