@@ -1,0 +1,5 @@
+/home/ssc/C++work/MYfirstProject/CMakeFiles/rebuild_cache.dir
+/home/ssc/C++work/MYfirstProject/CMakeFiles/edit_cache.dir
+/home/ssc/C++work/MYfirstProject/src/CMakeFiles/rebuild_cache.dir
+/home/ssc/C++work/MYfirstProject/src/CMakeFiles/edit_cache.dir
+/home/ssc/C++work/MYfirstProject/src/CMakeFiles/hello.dir

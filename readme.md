@@ -9,3 +9,11 @@ grammar_cjkRuby: true
 - 做正运动学计算坐标值
 - 通过坐标值与测量角度值进行机器学习训练
 - 学习模型与逆运动学比较，消除逆运动学求解问题
+
+
+#bulid
+
+	cmake .
+	cd src/
+	./hello
+<img src="data.png">
