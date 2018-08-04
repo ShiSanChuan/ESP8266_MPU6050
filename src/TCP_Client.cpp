@@ -17,8 +17,8 @@ bool TCP_Client::CreatConnect(void){
 	return true;
 }
 bool TCP_Client::Recv(string & data)const {
-	char buf[200]={0};
-	recv(sock_cli,buf,200,0);
+	char buf[36]={0};
+	recv(sock_cli,buf,36,0);
 	data=buf;
 	return true;
 }

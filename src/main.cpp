@@ -3,12 +3,13 @@
 #include "scv_file.h"
 #include "TCP_Client.h"
 #include "cvplot.h"
-
+#include <string>
 using namespace std;
+
 //cmake edit(C++11 ,file,head file) 
 //model class is must in h
-int main(int argc, const char** argv)
-{
+
+void drawdata(void){
 	//open csv and put data into image 
     sFILE<double>  file("/home/ssc/C++work/MYfirstProject/data.csv");
     sFILE<double> _1txt("/home/ssc/C++work/MYfirstProject/1.txt");
@@ -17,7 +18,6 @@ int main(int argc, const char** argv)
     sFILE<double> _4txt("/home/ssc/C++work/MYfirstProject/4.txt");
     sFILE<double> _5txt("/home/ssc/C++work/MYfirstProject/5.txt");
     sFILE<double> _6txt("/home/ssc/C++work/MYfirstProject/6.txt");
-
 
 	std::vector<float> data;
 	{
@@ -92,8 +92,55 @@ int main(int argc, const char** argv)
 		view.finish();
 		view.flush();
 	}
-//?????????
   	cv::waitKey(0);
+}
+void drawTCP(void){
+	TCP_Client Client("192.168.0.100",80);
+	auto name = "dynamic recevier";
+	cvplot::setWindowTitle(name, "dynamic plotting");
+	cvplot::moveWindow(name, 0, 0);
+	cvplot::resizeWindow(name, 600, 600);
+	auto &view = cvplot::Window::current().view(name);
+	auto &figure = cvplot::figure(name);
+	figure.square(true);
+	float data[4]={0};
+    clock_t time = 0;
+    if(Client.CreatConnect()){
+	    for (int i = 0;char(cv::waitKey(1)!='q'); i++) {
+	      auto fps = CLOCKS_PER_SEC / (float)(clock() - time);
+	      time = clock();
+	      {
+	      	string _data;
+	      	_data<<Client;
+	      	std::cout<<_data<<std::endl;
+	      	std::istringstream sin(_data);
+	      	string m;
+	      	int i=0;
+	      	while(getline(sin,m,',')){
+	      		std::istringstream srr(m);
+	      		srr>>data[i++];
+	      		// std::cout<<data[i-1]<<",";
+	      	}
+	      	// std::cout<<std::endl;
+	      }
+	      figure.series("X").add(i,data[0]);
+	      figure.series("Y").add(i,data[2]);
+	      figure.show(false);
+	      auto string = std::to_string(fps).substr(0, 4) + " fps  " +
+	                    std::to_string(i / 10.f).substr(0, 4) + "%";
+	      view.drawText(string, {480, 277}, cvplot::Gray);
+	      view.finish();
+	      view.flush();
+	    }
+	}else std::cout<<"false to connect"<<Client.GetAddr()<<std::endl;
+	cv::waitKey(0);
+}
+
+
+int main(int argc, const char** argv)
+{
+	drawdata();
+	// drawTCP();
     return 0;
 }
 
